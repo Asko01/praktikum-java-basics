@@ -31,7 +31,7 @@ public class CryptoService {
    * * Beispiel: Für den Input "Uwfpynpzr" soll der Wert "Praktikum" zurückgegeben werden.
    */
   public String decrypt(String input) {
-
+  String a;
     return input;
   }
 }
